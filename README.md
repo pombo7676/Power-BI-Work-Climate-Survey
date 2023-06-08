@@ -4,4 +4,4 @@
 
 ## Access link to Power BI Dashboard:
 
-[**Click here**](https://app.powerbi.com/view?r=eyJrIjoiZTkyNzViNDQtY2VmNC00NDgwLWJmNzEtOTE5MWRhNzlhMTFhIiwidCI6ImI0YjIzZDcxLTJjNGYtNDI2YS04NDZhLTcxNTgwYjMyNTBmMCIsImMiOjh9&pageName=ReportSection7a3f4bf06a47dc4d9b60)
+[**Click here**](https://app.powerbi.com/view?r=eyJrIjoiZTkyNzViNDQtY2VmNC00NDgwLWJmNzEtOTE5MWRhNzlhMTFhIiwidCI6ImI0YjIzZDcxLTJjNGYtNDI2YS04NDZhLTcxNTgwYjMyNTBmMCIsImMiOjh9)
